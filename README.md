@@ -1,4 +1,4 @@
-# SiliconBench 2-Go
+# SiliconBench 2.0
 
 A zero-dependency distribution of SiliconBench. Runs on any Python 3.8+ installation — no `pip install` required.
 
